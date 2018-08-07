@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bill Splitter</string>
+    <string name="title_member">Members</string>
+    <string name="title_bill">Bills</string>
+</resources>
